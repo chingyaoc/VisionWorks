@@ -5,3 +5,5 @@ Basic Computer Vision Problem &amp; Work.
 
 * [Basic Matlab](./BasicMatlab)
 * [Hybrid Image](./HybridImage)
+* [Corner Detection](./CornerDetection)
+* [Panorama Stitching](./PanoramaStitching)
