@@ -7,3 +7,4 @@ Basic Computer Vision Problem &amp; Work.
 * [Hybrid Image](./HybridImage)
 * [Corner Detection](./CornerDetection)
 * [Panorama Stitching](./PanoramaStitching)
+* [Seam Carving](./SeamCarving)
